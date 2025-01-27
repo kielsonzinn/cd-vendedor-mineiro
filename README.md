@@ -1,2 +1,3 @@
-# cd-vendedor-mineiro
-cdq-vendedor-mineiro
+```sh
+mvn clean install
+```

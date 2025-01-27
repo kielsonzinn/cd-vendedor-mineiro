@@ -1,0 +1,5 @@
+name: CDQMineradorPlugin
+main: br.com.cdq.CDQVendedorMineiroPlugin
+version: 1.0
+api-version: 1.18
+description: Vendedor mineiro
